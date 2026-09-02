@@ -1,1 +1,1 @@
-APP_NAME = "Production App"
+APP_NAME = "AI System App"
