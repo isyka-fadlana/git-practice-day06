@@ -1,1 +1,1 @@
-Try a new remote from gtihub
+Remote update practice from GitHub.
